@@ -18,7 +18,12 @@ Estou aproveitando o período da graduação para explorar as áreas da tecnolog
           
 
 ### Como contatar?
+
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+
 https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:cnogueira.nicole@gmail.com
 https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=[www.linkedin.com/in/nicole-nogueira-]
+
+
 
 

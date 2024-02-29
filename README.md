@@ -1,15 +1,14 @@
-### Bem Vindos! 👋
+### Bem Vindos! 👋🏼
+
+## Prazer, sou Nicole Nogueira. 🫱🏻‍🫲🏽
+Tenho 21 anos e sou graduanda em Bacharelado em Tecnologia da Informação na UFRN (Universidade Federal do Rio Grande do Norte).
+Estou aproveitando o período da graduação para explorar as áreas da tecnologia e, aqui, é possível acompanhar um pouquinho das minhas experiências nessa trajetória.
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolecnogueira&show_icons=true&theme=cobalt"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolecnogueira&layout=compact&theme=cobalt"/>
 
 <!--
 **nicolecnogueira/nicolecnogueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolecnogueira&show_icons=true&theme=cobalt"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolecnogueira&layout=compact&theme=cobalt"/>
 
  
 Here are some ideas to get you started:

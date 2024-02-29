@@ -1,6 +1,6 @@
-### Bem Vindos! 👋🏼
+## Bem Vindos! 👋🏼
 
-## Prazer, sou Nicole Nogueira. 🫱🏻‍🫲🏽
+### Prazer, sou Nicole Nogueira. 🫱🏻‍🫲🏽
 Tenho 21 anos e sou graduanda em Bacharelado em Tecnologia da Informação na UFRN (Universidade Federal do Rio Grande do Norte).
 Estou aproveitando o período da graduação para explorar as áreas da tecnologia e, aqui, é possível acompanhar um pouquinho das minhas experiências nessa trajetória.
 

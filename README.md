@@ -6,8 +6,7 @@ Estou aproveitando o período da graduação para explorar as áreas da tecnolog
 
 
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolecnogueira&layout=donut&theme=cobalt"/>
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatimenicolecnogueira=ffflabs)](https://github.com/nicolecnogueira/github-readme-stats)
-<!--
+
 **nicolecnogueira/nicolecnogueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
  

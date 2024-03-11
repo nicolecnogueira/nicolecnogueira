@@ -11,10 +11,10 @@ Estou aproveitando o período da graduação para explorar as áreas da tecnolog
 <a target="_blank" href="https://www.python.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" /><a/>
 <a target="_blank" href="https://www.arduino.cc"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="50" height="50" /><a/>
 <a target="_blank" href="https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50" height="50" /><a/>
-<a target="_blank" href="https://www.oracle.com/br/java/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" height="50" /><a/>
-<a target="_blank" href="https://www.oracle.com/br/java/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" /><a/>
-<a target="_blank" href="https://www.oracle.com/br/java/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50" /><a/>
-<a target="_blank" href="https://www.oracle.com/br/java/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" width="50" height="50" /><a/>
+<a target="_blank" href="https://pt.wikipedia.org/wiki/C%2B%2B"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" height="50" /><a/>
+<a target="_blank" href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" /><a/>
+<a target="_blank" href="https://dev.java/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50" /><a/>
+<a target="_blank" href="https://cmake.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" width="50" height="50" /><a/>
           
 
 

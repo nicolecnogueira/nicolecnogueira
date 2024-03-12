@@ -15,6 +15,7 @@ Estou aproveitando o período da graduação para explorar as áreas da tecnolog
 <a target="_blank" href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" /><a/>
 <a target="_blank" href="https://dev.java/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50" /><a/>
 <a target="_blank" href="https://cmake.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" width="50" height="50" /><a/>
+<a target="_blank" href="https://www.raspberrypi.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" width="50" height="50" /><a/>
           
 
 
